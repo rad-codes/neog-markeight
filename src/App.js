@@ -11,7 +11,10 @@ const emojiDictionary = {
   "😑":"annoyance" ,
   "😂":"Lol",
   "🙌":"Raising Hand",
-  "😋":"yummy"
+  "😋":"yummy",
+  "😒":"unamazed",
+  "😮":"amazed",
+  "🤒":"unwell"
 };
 
 
